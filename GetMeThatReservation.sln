@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "WebsiteChecker", "WebsiteChecker\WebsiteChecker.njsproj", "{FB97A78F-9D74-46EB-A53F-EFE772C1746A}"
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "GetMeThatReservation", "WebsiteChecker\GetMeThatReservation.njsproj", "{FB97A78F-9D74-46EB-A53F-EFE772C1746A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
