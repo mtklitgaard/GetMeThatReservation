@@ -1,0 +1,15 @@
+{
+  "name": "WebsiteChecker",
+  "version": "0.0.0",
+  "description": "WebsiteChecker",
+  "main": "app.js",
+  "author": {
+    "name": "MKlitgaa",
+    "email": ""
+  },
+  "dependencies": {
+    "request": "^2.62.0",
+    "require": "^2.4.20",
+    "sendgrid": "^1.9.2"
+  }
+}
